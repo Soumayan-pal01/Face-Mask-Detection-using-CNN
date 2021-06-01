@@ -5,4 +5,4 @@ This model has the capability to detect different types of masks with a certain 
 The demonstration video is provided for a better understanding of the model.
 
 
-<img src = "plot_v2.png" width="200"> 
+<img src = "https://github.com/Soumayan-pal01/Face-Mask-Detection-using-CNN/blob/main/Graphs/plot_v2.png" width="200"> 
