@@ -1,2 +1,5 @@
 # Face-Mask-Detection-using-CNN
-This project is about building a model which detects faces with mask and those without mask in real time using Caffe framework of CNN. The Caffe model takes the real time video as input to detect whether the face detected, is wearing a mask or not and put an appropriate message.
+
+This a Face Mask Detection project that uses Caffe framework to take real time video stream as input to detect human faces present in the frame and convert them into blobs using OpenCV. The prototxt file deploys the Caffe model to detect faces. This face detection model is combined with a mask detection CNN model that has been trained by finetuning the 2 topmost neural layers of the MobileNetv2 model using the concept of transfer learning. MobileNetV2 is a very light weight anfd efficient model.
+This model has the capability to detect different types of masks with a certain confidence displayed actively on the detected face.
+The demonstration video is provided for a better understanding of the model.
