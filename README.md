@@ -6,3 +6,5 @@ The demonstration video is provided for a better understanding of the model.
 
 
 <img src = "https://github.com/Soumayan-pal01/Face-Mask-Detection-using-CNN/blob/main/Graphs/plot_v2.png" width="500"> 
+
+This is a very single approach for Face Mask detection.Hope this open source project will be helpful for others to understand this approach and try some more efficient approach.
