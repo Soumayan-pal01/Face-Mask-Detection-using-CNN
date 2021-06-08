@@ -7,4 +7,4 @@ The demonstration video is provided for a better understanding of the model.
 
 <img src = "https://github.com/Soumayan-pal01/Face-Mask-Detection-using-CNN/blob/main/Graphs/plot_v2.png" width="500"> 
 
-This is a very single approach for Face Mask detection.Hope this open source project will be helpful for others to understand this approach and try some more efficient approach.
+The Haar Cascades approach was found to be inefficient as the model was unable to detect the dark contoured mask. It also failed to detect the face when the angle of face with respect to the camera exceeded from 0 degree(straight) in either sides.
